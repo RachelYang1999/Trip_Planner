@@ -1,6 +1,7 @@
 # Trip Planner
 
 **Due to the copyright issue, the source code of this application cannot be provided in the public repository**
+
 **Feel free to contact me if you are interested in this project**
 
 ## Project Description

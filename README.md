@@ -1,5 +1,8 @@
 # Trip Planner
 
+**Due to the copyright issue, the source code of this application cannot be provided in the public repository**
+**Feel free to contact me if you are interested in this project**
+
 ## Project Description
 Trip Planner is an Android mobile application where users can plan, create and share trips. Users can securely login, customize trips by adding stops such as restaurants, cafes, etc and share their trips with their friends. 
 
@@ -43,7 +46,6 @@ The Google Maps API is used in order to facilitate a map view on the client-side
 
 The server is running on AWS EC2 instance with the name `Saturn`.
 
-IP address: `http://52.63.151.154:8080/`
 
 ### Google PlayStore
 
